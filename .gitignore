@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+front-end/.graphqlconfig.yml
+front-end/amplify/cli.json
+front-end/.vscode/settings.json
+front-end/amplify/team-provider-info.json
+front-end/amplify/.config/project-config.json
+front-end/amplify/backend/backend-config.json
+front-end/amplify/backend/tags.json
+front-end/amplify/backend/hosting/amplifyhosting/amplifyhosting-template.json
+front-end/deployment/config/config-development.ts
+front-end/deployment/config/config-development.ts
